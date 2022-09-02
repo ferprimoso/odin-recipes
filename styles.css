@@ -9,6 +9,10 @@ body {
     height: 100%;
 }
 
+header {
+    background-color: #ccc0ae;
+}
+
 div {
     background-color: #ffffff;
     color: black;
@@ -16,6 +20,7 @@ div {
     width: 1000px;
     margin: auto;
     padding-bottom: 20px;
+    padding-top: 40px;
 }
 
 h1 {
